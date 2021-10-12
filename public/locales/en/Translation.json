@@ -1,0 +1,11 @@
+{
+  "hi": "Hi",
+  "title": "Welcome To Translation Demo",
+  "description": {
+    "part1": "This page is designed with React Library",
+    "part2": "Switch language using buttons above"
+  },
+  "quote": {
+    "best": "This is the transation with Translation Component"
+  }
+}
